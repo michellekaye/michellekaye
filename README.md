@@ -2,7 +2,7 @@
 
 I'm a web developer based in Vancouver, BC. I specialize in UI/UX development and dabble in design and user research. Outside my career, I'm an animal-loving, globe-trotting, free-spirited, bookworm with a passion for mental wellness and human sexuality.
 
-I'm currently a Senior Front-end Engineer for Creative Market, looking to find meaning and purpose in the daily grind. Last year I took a six month hiatus from the corporate world to try to figure out my life's purpose. In between exploring my passions, I was freelancing as a web developer and designer for projects that meant something to me. I'm still open to new projects so reach out if you want to work together! I'd love to hear from you.
+I'm currently a Senior Front-end Engineer for Bellesa, looking to find meaning and purpose in the daily grind. Last year I took a six month hiatus from the corporate world to try to figure out my life's purpose. In between exploring my passions, I was freelancing as a web developer and designer for projects that meant something to me. I'm still open to new projects so reach out if you want to work together! I'd love to hear from you.
 
 ## I am currently...
 
@@ -23,8 +23,6 @@ I'm currently a Senior Front-end Engineer for Creative Market, looking to find m
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/michellekaye06)
 
 <!--
 **michellekaye/michellekaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
